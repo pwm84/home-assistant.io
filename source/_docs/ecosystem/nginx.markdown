@@ -14,7 +14,7 @@ Using NGINX as a proxy for Home Assistant allows you to serve Home Assistant sec
 
 ### {% linkable_title 1. Get a domain name forwarded to your IP %}
 
-Chances are, you have a dynamic IP address (your ISP changes your address periodically). If this is true, you can use a Dynamic DNS service to obtain a domain and set it up to update with you IP. If you purchase your own domain name, you will be able to easily get a trusted SSL certificate later.
+Chances are, you have a dynamic IP address (your ISP changes your address periodically). If this is true, you can use a Dynamic DNS service to obtain a domain and set it up to update with your IP. If you purchase your own domain name, you will be able to easily get a trusted SSL certificate later.
 
 
 ### {% linkable_title 2 Install nginx on your server %}
